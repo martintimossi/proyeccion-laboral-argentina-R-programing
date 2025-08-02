@@ -198,3 +198,5 @@ ggplot(grafico_linea_pobreza, aes(x=EDUCACION, y=porcentaje, fill = LINEA_POBREZ
   geom_bar(stat = "identity")+
   labs(title = "Familias debajo/sobre linea de pobreza segun estudios alcanzados")
 --------------------------------------------------------------------------------
+
+tirando magia como para ver que onda 
